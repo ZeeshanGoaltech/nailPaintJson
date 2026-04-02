@@ -6,7 +6,7 @@
     "colorName": "Neon Pink",
     "category": "Party",
     "nailColor": 4294901978,
-    "imageUrl": "https://images.unsplash.com/photo-1599387737923-380590835f10?q=80&w=500",
+    "imageUrl": "categories_json/party/img1.png",
     "isPremium": true,
     "order": 1
   },
@@ -17,7 +17,7 @@
     "colorName": "Black & Gold",
     "category": "Party",
     "nailColor": 4278190080,
-    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
+    "imageUrl": "categories_json/party/img1.png",
     "isPremium": false,
     "order": 2
   }
