@@ -7,7 +7,7 @@
     "category": "sub_all",
     "nailColor": 4293322490,
     "gradientColors": null,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,lavender?lock=3",
+    "imageUrl": "sub_all/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -19,7 +19,7 @@
     "category": "sub_all",
     "nailColor": 4294309365,
     "gradientColors": null,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,white?lock=4",
+    "imageUrl": "sub_all/img2.png",
     "isPremium": false,
     "order": 2
   },
@@ -34,7 +34,7 @@
       4294957553,
       4294967295
     ],
-    "imageUrl": "https://loremflickr.com/400/600/nailart,french?lock=5",
+    "imageUrl": "sub_all/img3.png",
     "isPremium": false,
     "order": 3
   },
@@ -46,7 +46,7 @@
     "category": "sub_all",
     "nailColor": 4283484280,
     "gradientColors": null,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,emerald?lock=6",
+    "imageUrl": "sub_all/img4.png",
     "isPremium": false,
     "order": 4
   }
