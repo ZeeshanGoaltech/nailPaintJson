@@ -7,7 +7,7 @@
     "category": "cat_featured",
     "nailColor": 4294951115,
     "gradientColors": null,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,pink?lock=1",
+    "imageUrl": "hcat_featured_pic/img1.png",
     "isPremium": true,
     "order": 1
   },
@@ -19,7 +19,7 @@
     "category": "cat_featured",
     "nailColor": 4294956800,
     "gradientColors": null,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,gold?lock=2",
+    "imageUrl": "cat_featured_pic/img2.png",
     "isPremium": true,
     "order": 2
   }
