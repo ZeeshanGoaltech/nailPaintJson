@@ -1,0 +1,24 @@
+[
+  {
+    "id": "acrylic_1",
+    "title": "Classic Nude",
+    "description": "Smooth nude acrylic with a high gloss finish.",
+    "colorName": "Nude",
+    "category": "Acrylic",
+    "nailColor": 4293051084,
+    "imageUrl": "https://loremflickr.com/400/600/nailart,french?lock=5",
+    "isPremium": false,
+    "order": 1
+  },
+  {
+    "id": "acrylic_2",
+    "title": "Pink Marble",
+    "description": "Artistic marble effect with baby pink and white.",
+    "colorName": "Pink Marble",
+    "category": "Acrylic",
+    "nailColor": 4294406323,
+    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "isPremium": true,
+    "order": 2
+  }
+]
