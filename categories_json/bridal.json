@@ -6,7 +6,7 @@
     "colorName": "Bridal White",
     "category": "Bridal",
     "nailColor": 4294967295,
-    "imageUrl": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?q=80&w=500",
+    "imageUrl": "categories_json/bridal/img1.png",
     "isPremium": true,
     "order": 1
   },
@@ -17,7 +17,7 @@
     "colorName": "Rose",
     "category": "Bridal",
     "nailColor": 4294406323,
-    "imageUrl": "https://images.unsplash.com/photo-1600007157202-4448ad21972f?q=80&w=500",
+    "imageUrl": "categories_json/bridal/img2.png",
     "isPremium": false,
     "order": 2
   }
