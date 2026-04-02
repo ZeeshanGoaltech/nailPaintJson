@@ -2,7 +2,7 @@
   {
     "id": "acrylic",
     "name": "Acrylic",
-    "iconPath": "https://your-backend.com/icons/acrylic.svg",
+    "iconPath": "categories_json_icon/img1.png",
     "containerColor": "#F3E8FF80",
     "containerBorderColor": "#E9D5FF",
     "circleColor": "#E9D5FF",
@@ -11,7 +11,7 @@
   {
     "id": "french",
     "name": "French",
-    "iconPath": "https://your-backend.com/icons/french.svg",
+    "iconPath": "categories_json_icon/img2.png",
     "containerColor": "#DBEAFE80",
     "containerBorderColor": "#BFDBFE",
     "circleColor": "#BFDBFE",
@@ -20,7 +20,7 @@
   {
     "id": "bridal",
     "name": "Bridal",
-    "iconPath": "https://your-backend.com/icons/bridal.svg",
+    "iconPath": "categories_json_icon/img3.png",
     "containerColor": "#FCE7F380",
     "containerBorderColor": "#FBCFE8",
     "circleColor": "#FBCFE8",
@@ -29,7 +29,7 @@
   {
     "id": "party",
     "name": "Party",
-    "iconPath": "https://your-backend.com/icons/party.svg",
+    "iconPath": "categories_json_icon/img4.png",
     "containerColor": "#FFEDD580",
     "containerBorderColor": "#FED7AA",
     "circleColor": "#FED7AA",
@@ -38,7 +38,7 @@
   {
     "id": "glitter",
     "name": "Glitter",
-    "iconPath": "https://your-backend.com/icons/glitter.svg",
+    "iconPath": "categories_json_icon/img5.png",
     "containerColor": "#FEF9C380",
     "containerBorderColor": "#FEF08A",
     "circleColor": "#FEF08A",
@@ -47,7 +47,7 @@
   {
     "id": "halloween",
     "name": "Halloween",
-    "iconPath": "https://your-backend.com/icons/halloween.svg",
+    "iconPath": "categories_json_icon/img6.png",
     "containerColor": "#F1F5F980",
     "containerBorderColor": "#E2E8F0",
     "circleColor": "#E2E8F0",
@@ -56,7 +56,7 @@
   {
     "id": "simple",
     "name": "Simple",
-    "iconPath": "https://your-backend.com/icons/simple.svg",
+    "iconPath": "categories_json_icon/img7.png",
     "containerColor": "#DCFCE780",
     "containerBorderColor": "#BBF7D0",
     "circleColor": "#BBF7D0",
@@ -65,7 +65,7 @@
   {
     "id": "office",
     "name": "Office",
-    "iconPath": "https://your-backend.com/icons/office.svg",
+    "iconPath": "categories_json_icon/img8.png",
     "containerColor": "#E0E7FF80",
     "containerBorderColor": "#C7D2FE",
     "circleColor": "#C7D2FE",
