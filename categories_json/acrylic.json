@@ -6,7 +6,7 @@
     "colorName": "Nude",
     "category": "Acrylic",
     "nailColor": 4293051084,
-    "imageUrl": "https://loremflickr.com/400/600/nailart,french?lock=5",
+    "imageUrl": "categories_json/acrylic/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -17,7 +17,7 @@
     "colorName": "Pink Marble",
     "category": "Acrylic",
     "nailColor": 4294406323,
-    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "imageUrl": "categories_json/acrylic/img2.png",
     "isPremium": true,
     "order": 2
   }
