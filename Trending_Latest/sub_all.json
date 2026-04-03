@@ -49,5 +49,29 @@
     "imageUrl": "Trending_Latest/sub_all/img4.png",
     "isPremium": false,
     "order": 4
+  },
+  {
+    "id": "trend_005",
+    "title": "Rose Blush",
+    "description": "Soft rosy blush tones with a creamy finish—romantic, delicate, and perfect for a graceful everyday look.",
+    "colorName": "Rose Pink",
+    "category": "sub_all",
+    "nailColor": 4294198070,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_all/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "trend_006",
+    "title": "Midnight Gloss",
+    "description": "Deep midnight shade with a glossy finish—bold, sleek, and perfect for a dramatic modern style.",
+    "colorName": "Midnight Blue",
+    "category": "sub_all",
+    "nailColor": 4281545523,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_all/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
