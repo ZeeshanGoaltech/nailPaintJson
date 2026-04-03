@@ -20,5 +20,49 @@
     "imageUrl": "categories_json/acrylic/img2.png",
     "isPremium": true,
     "order": 2
+  },
+  {
+    "id": "acrylic_3",
+    "title": "Glossy Red",
+    "description": "Bold glossy red acrylic nails with a smooth salon finish.",
+    "colorName": "Red",
+    "category": "Acrylic",
+    "nailColor": 4294198070,
+    "imageUrl": "categories_json/acrylic/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "acrylic_4",
+    "title": "Milky White",
+    "description": "Soft milky white acrylic nails with a clean glossy look.",
+    "colorName": "Milky White",
+    "category": "Acrylic",
+    "nailColor": 4294960625,
+    "imageUrl": "categories_json/acrylic/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "acrylic_5",
+    "title": "Lavender Gloss",
+    "description": "Light lavender acrylic nails with a shiny smooth finish.",
+    "colorName": "Lavender",
+    "category": "Acrylic",
+    "nailColor": 4293322490,
+    "imageUrl": "categories_json/acrylic/img5.png",
+    "isPremium": true,
+    "order": 5
+  },
+  {
+    "id": "acrylic_6",
+    "title": "Peach Shine",
+    "description": "Soft peach acrylic nails with a glossy elegant finish.",
+    "colorName": "Peach",
+    "category": "Acrylic",
+    "nailColor": 4294951580,
+    "imageUrl": "categories_json/acrylic/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
