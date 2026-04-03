@@ -22,5 +22,53 @@
     "imageUrl": "Trending_Latest/sub_trending/img2.png",
     "isPremium": false,
     "order": 2
+  },
+  {
+    "id": "trend_017",
+    "title": "Rose Chrome",
+    "description": "Shiny rose chrome finish with a reflective glow—trendy, stylish, and perfect for standout nails.",
+    "colorName": "Rose Chrome",
+    "category": "sub_trending",
+    "nailColor": 4294198070,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_trending/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "trend_018",
+    "title": "Sky Gloss",
+    "description": "Soft sky blue shade with a glossy smooth finish—fresh, clean, and modern trending style.",
+    "colorName": "Sky Blue",
+    "category": "sub_trending",
+    "nailColor": 4287090411,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_trending/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "trend_019",
+    "title": "Nude Shine",
+    "description": "Natural nude tone with a shiny polished finish—simple, elegant, and always trending.",
+    "colorName": "Nude",
+    "category": "sub_trending",
+    "nailColor": 4293848814,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_trending/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "trend_020",
+    "title": "Midnight Plum",
+    "description": "Deep plum shade with a glossy finish—bold, dramatic, and perfect for trendy nail looks.",
+    "colorName": "Plum",
+    "category": "sub_trending",
+    "nailColor": 4287466890,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_trending/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
