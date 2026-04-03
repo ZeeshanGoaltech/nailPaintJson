@@ -6,7 +6,7 @@
     "colorName": "Silver Holo",
     "category": "Glitter",
     "nailColor": 4294967295,
-    "imageUrl": "https://images.unsplash.com/photo-1621333100643-982f6e919864?q=80&w=500",
+    "imageUrl": "categories_json/glitter/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -17,8 +17,52 @@
     "colorName": "Midnight Blue",
     "category": "Glitter",
     "nailColor": 4278190209,
-    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "imageUrl": "categories_json/glitter/img2.png",
     "isPremium": true,
     "order": 2
+  },
+  {
+    "id": "glitter_3",
+    "title": "Rose Sparkle",
+    "description": "Soft rose pink glitter with a glossy shine.",
+    "colorName": "Rose Pink",
+    "category": "Glitter",
+    "nailColor": 4294406323,
+    "imageUrl": "categories_json/glitter/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "glitter_4",
+    "title": "Golden Dust",
+    "description": "Fine golden glitter for a luxury sparkling look.",
+    "colorName": "Gold",
+    "category": "Glitter",
+    "nailColor": 4294944000,
+    "imageUrl": "categories_json/glitter/img4.png",
+    "isPremium": true,
+    "order": 4
+  },
+  {
+    "id": "glitter_5",
+    "title": "Purple Shine",
+    "description": "Vibrant purple glitter with reflective sparkle.",
+    "colorName": "Purple",
+    "category": "Glitter",
+    "nailColor": 4288423856,
+    "imageUrl": "categories_json/glitter/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "glitter_6",
+    "title": "Emerald Spark",
+    "description": "Rich emerald green glitter with shimmering flakes.",
+    "colorName": "Emerald",
+    "category": "Glitter",
+    "nailColor": 4283484280,
+    "imageUrl": "categories_json/glitter/img6.png",
+    "isPremium": true,
+    "order": 6
   }
 ]
