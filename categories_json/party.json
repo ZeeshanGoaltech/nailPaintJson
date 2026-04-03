@@ -17,8 +17,52 @@
     "colorName": "Black & Gold",
     "category": "Party",
     "nailColor": 4278190080,
-    "imageUrl": "categories_json/party/img1.png",
+    "imageUrl": "categories_json/party/img2.png",
     "isPremium": false,
     "order": 2
+  },
+  {
+    "id": "party_3",
+    "title": "Electric Blue",
+    "description": "Bright neon blue for a bold party look.",
+    "colorName": "Neon Blue",
+    "category": "Party",
+    "nailColor": 4287090411,
+    "imageUrl": "categories_json/party/img3.png",
+    "isPremium": true,
+    "order": 3
+  },
+  {
+    "id": "party_4",
+    "title": "Purple Haze",
+    "description": "Deep purple glitter with holographic shine.",
+    "colorName": "Purple",
+    "category": "Party",
+    "nailColor": 4288423856,
+    "imageUrl": "categories_json/party/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "party_5",
+    "title": "Rose Glow",
+    "description": "Soft pink glitter with metallic shimmer.",
+    "colorName": "Rose",
+    "category": "Party",
+    "nailColor": 4294406323,
+    "imageUrl": "categories_json/party/img5.png",
+    "isPremium": true,
+    "order": 5
+  },
+  {
+    "id": "party_6",
+    "title": "Silver Lights",
+    "description": "Sparkling silver glitter for dazzling nails.",
+    "colorName": "Silver",
+    "category": "Party",
+    "nailColor": 4294967295,
+    "imageUrl": "categories_json/party/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
