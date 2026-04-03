@@ -6,7 +6,7 @@
     "colorName": "Black & Orange",
     "category": "Halloween",
     "nailColor": 4278190080,
-    "imageUrl": "https://images.unsplash.com/photo-1599387737923-380590835f10?q=80&w=500",
+    "imageUrl": "categories_json/halloween/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -17,8 +17,52 @@
     "colorName": "Crimson",
     "category": "Halloween",
     "nailColor": 4286578688,
-    "imageUrl": "https://images.unsplash.com/photo-1621333100643-982f6e919864?q=80&w=500",
+    "imageUrl": "categories_json/halloween/img2.png",
     "isPremium": true,
     "order": 2
+  },
+  {
+    "id": "halloween_3",
+    "title": "Haunted Purple",
+    "description": "Dark purple with a subtle shimmer.",
+    "colorName": "Dark Purple",
+    "category": "Halloween",
+    "nailColor": 4288230143,
+    "imageUrl": "categories_json/halloween/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "halloween_4",
+    "title": "Ghost White",
+    "description": "Soft white with a ghostly glow.",
+    "colorName": "White",
+    "category": "Halloween",
+    "nailColor": 4294967295,
+    "imageUrl": "categories_json/halloween/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "halloween_5",
+    "title": "Pumpkin Spice",
+    "description": "Warm orange matte with a cozy vibe.",
+    "colorName": "Orange",
+    "category": "Halloween",
+    "nailColor": 4294941440,
+    "imageUrl": "categories_json/halloween/img5.png",
+    "isPremium": true,
+    "order": 5
+  },
+  {
+    "id": "halloween_6",
+    "title": "Witch’s Brew",
+    "description": "Mystic green with sparkly accents.",
+    "colorName": "Emerald Green",
+    "category": "Halloween",
+    "nailColor": 4283484280,
+    "imageUrl": "categories_json/halloween/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
