@@ -20,5 +20,49 @@
     "imageUrl": "categories_json/bridal/img2.png",
     "isPremium": false,
     "order": 2
+  },
+  {
+    "id": "bridal_3",
+    "title": "Golden Pearl",
+    "description": "Soft pearl base with elegant golden shimmer highlights.",
+    "colorName": "Pearl Gold",
+    "category": "Bridal",
+    "nailColor": 4294944000,
+    "imageUrl": "categories_json/bridal/img3.png",
+    "isPremium": true,
+    "order": 3
+  },
+  {
+    "id": "bridal_4",
+    "title": "Blush Glitter",
+    "description": "Light blush pink with fine glitter for a romantic bridal look.",
+    "colorName": "Blush Pink",
+    "category": "Bridal",
+    "nailColor": 4294566035,
+    "imageUrl": "categories_json/bridal/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "bridal_5",
+    "title": "Ivory Shine",
+    "description": "Elegant ivory shade with a smooth glossy finish.",
+    "colorName": "Ivory",
+    "category": "Bridal",
+    "nailColor": 4294960625,
+    "imageUrl": "categories_json/bridal/img5.png",
+    "isPremium": true,
+    "order": 5
+  },
+  {
+    "id": "bridal_6",
+    "title": "Crystal French",
+    "description": "Classic French tips with crystal sparkle accents.",
+    "colorName": "Crystal French",
+    "category": "Bridal",
+    "nailColor": 4294957553,
+    "imageUrl": "categories_json/bridal/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
