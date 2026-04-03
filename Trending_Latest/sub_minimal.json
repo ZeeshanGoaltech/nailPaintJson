@@ -10,5 +10,65 @@
     "imageUrl": "Trending_Latest/sub_minimal/img1.png",
     "isPremium": false,
     "order": 1
+  },
+  {
+    "id": "trend_007",
+    "title": "Soft Beige",
+    "description": "A clean soft beige tone with a smooth minimalist finish—simple, modern, and effortlessly elegant.",
+    "colorName": "Beige",
+    "category": "sub_minimal",
+    "nailColor": 4293848814,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_minimal/img2.png",
+    "isPremium": false,
+    "order": 2
+  },
+  {
+    "id": "trend_008",
+    "title": "Muted Rose",
+    "description": "A soft muted rose shade with a creamy texture—minimal, classy, and perfect for subtle beauty.",
+    "colorName": "Muted Rose",
+    "category": "sub_minimal",
+    "nailColor": 4294173165,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_minimal/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "trend_009",
+    "title": "Cloud Gray",
+    "description": "Light cloud gray with a clean matte feel—modern minimalist style for a calm and balanced look.",
+    "colorName": "Light Gray",
+    "category": "sub_minimal",
+    "nailColor": 4292927712,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_minimal/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "trend_010",
+    "title": "Soft Peach",
+    "description": "A gentle peach tone with a soft glossy finish—minimal, warm, and naturally beautiful.",
+    "colorName": "Peach",
+    "category": "sub_minimal",
+    "nailColor": 4294951580,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_minimal/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "trend_011",
+    "title": "Milky Pink",
+    "description": "Milky soft pink shade with a clean natural finish—perfect for a simple and elegant nail look.",
+    "colorName": "Milky Pink",
+    "category": "sub_minimal",
+    "nailColor": 4294566035,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_minimal/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
