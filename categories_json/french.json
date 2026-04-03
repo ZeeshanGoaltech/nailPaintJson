@@ -20,5 +20,49 @@
     "imageUrl": "categories_json/french/img2.png",
     "isPremium": true,
     "order": 2
+  },
+  {
+    "id": "french_3",
+    "title": "Glitter French Tip",
+    "description": "Classic French tips with fine glitter edges.",
+    "colorName": "Glitter White",
+    "category": "French",
+    "nailColor": 4294967295,
+    "imageUrl": "categories_json/french/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "french_4",
+    "title": "Soft Pink French",
+    "description": "Light pink base with soft white French tips.",
+    "colorName": "Soft Pink",
+    "category": "French",
+    "nailColor": 4294406323,
+    "imageUrl": "categories_json/french/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "french_5",
+    "title": "Gold Line French",
+    "description": "French tips outlined with a thin gold line.",
+    "colorName": "White & Gold",
+    "category": "French",
+    "nailColor": 4294944000,
+    "imageUrl": "categories_json/french/img5.png",
+    "isPremium": true,
+    "order": 5
+  },
+  {
+    "id": "french_6",
+    "title": "Matte French",
+    "description": "Matte base with glossy French tips for contrast.",
+    "colorName": "Matte Pink",
+    "category": "French",
+    "nailColor": 4293051084,
+    "imageUrl": "categories_json/french/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
