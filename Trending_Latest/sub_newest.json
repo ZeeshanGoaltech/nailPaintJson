@@ -13,5 +13,65 @@
     "imageUrl": "Trending_Latest/sub_newest/img1.png",
     "isPremium": false,
     "order": 1
+  },
+  {
+    "id": "trend_012",
+    "title": "Golden Glow",
+    "description": "Soft golden shimmer with a smooth glossy finish—warm, radiant, and perfect for a fresh modern manicure.",
+    "colorName": "Soft Gold",
+    "category": "sub_newest",
+    "nailColor": 4294944000,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_newest/img2.png",
+    "isPremium": false,
+    "order": 2
+  },
+  {
+    "id": "trend_013",
+    "title": "Berry Smooth",
+    "description": "Deep berry tone with a creamy polished finish—rich color that feels bold yet elegant.",
+    "colorName": "Berry",
+    "category": "sub_newest",
+    "nailColor": 4289344511,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_newest/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "trend_014",
+    "title": "Ocean Tint",
+    "description": "Fresh ocean blue shade with a glossy shine—cool, clean, and perfect for a modern trendy style.",
+    "colorName": "Ocean Blue",
+    "category": "sub_newest",
+    "nailColor": 4283782485,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_newest/img4.png",
+    "isPremium": false,
+    "order": 4
+  },
+  {
+    "id": "trend_015",
+    "title": "Mocha Cream",
+    "description": "Soft mocha brown with a creamy smooth texture—neutral, classy, and perfect for everyday wear.",
+    "colorName": "Mocha",
+    "category": "sub_newest",
+    "nailColor": 4289379276,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_newest/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "trend_016",
+    "title": "Silver Touch",
+    "description": "Light silver shimmer with a clean glossy finish—modern, stylish, and subtly eye-catching.",
+    "colorName": "Silver",
+    "category": "sub_newest",
+    "nailColor": 4292927712,
+    "gradientColors": null,
+    "imageUrl": "Trending_Latest/sub_newest/img6.png",
+    "isPremium": false,
+    "order": 6
   }
 ]
