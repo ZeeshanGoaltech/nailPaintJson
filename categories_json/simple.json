@@ -6,7 +6,7 @@
     "colorName": "Nude",
     "category": "Simple",
     "nailColor": 4293051084,
-    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "imageUrl": "categories_json/simple/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -17,8 +17,52 @@
     "colorName": "Lavender",
     "category": "Simple",
     "nailColor": 4291807210,
-    "imageUrl": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?q=80&w=500",
+    "imageUrl": "categories_json/simple/img2.png",
     "isPremium": false,
     "order": 2
+  },
+  {
+    "id": "simple_3",
+    "title": "Peach Glow",
+    "description": "Warm peach tone with a subtle shine.",
+    "colorName": "Peach",
+    "category": "Simple",
+    "nailColor": 4294927711,
+    "imageUrl": "categories_json/simple/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "simple_4",
+    "title": "Mint Whisper",
+    "description": "Soft mint green for a refreshing look.",
+    "colorName": "Mint",
+    "category": "Simple",
+    "nailColor": 4289444095,
+    "imageUrl": "categories_json/simple/img4.png",
+    "isPremium": true,
+    "order": 4
+  },
+  {
+    "id": "simple_5",
+    "title": "Blush Pink",
+    "description": "Delicate blush with a soft finish.",
+    "colorName": "Blush",
+    "category": "Simple",
+    "nailColor": 4294961154,
+    "imageUrl": "categories_json/simple/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "simple_6",
+    "title": "Icy Beige",
+    "description": "Neutral beige with a cool undertone.",
+    "colorName": "Beige",
+    "category": "Simple",
+    "nailColor": 4293229535,
+    "imageUrl": "categories_json/simple/img6.png",
+    "isPremium": true,
+    "order": 6
   }
 ]
