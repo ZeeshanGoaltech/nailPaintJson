@@ -6,7 +6,7 @@
     "colorName": "Charcoal Grey",
     "category": "Office",
     "nailColor": 4282664004,
-    "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=500",
+    "imageUrl": "categories_json/office/img1.png",
     "isPremium": false,
     "order": 1
   },
@@ -17,8 +17,52 @@
     "colorName": "Beige",
     "category": "Office",
     "nailColor": 4293845710,
-    "imageUrl": "https://images.unsplash.com/photo-1604654894610-df490998cb10?q=80&w=500",
+    "imageUrl": "categories_json/office/img2.png",
     "isPremium": false,
     "order": 2
+  },
+  {
+    "id": "office_3",
+    "title": "Soft Taupe",
+    "description": "Neutral taupe for a polished look.",
+    "colorName": "Taupe",
+    "category": "Office",
+    "nailColor": 4289379275,
+    "imageUrl": "categories_json/office/img3.png",
+    "isPremium": false,
+    "order": 3
+  },
+  {
+    "id": "office_4",
+    "title": "Classic Mauve",
+    "description": "Subtle mauve for elegant fingertips.",
+    "colorName": "Mauve",
+    "category": "Office",
+    "nailColor": 4288920505,
+    "imageUrl": "categories_json/office/img4.png",
+    "isPremium": true,
+    "order": 4
+  },
+  {
+    "id": "office_5",
+    "title": "Pale Blush",
+    "description": "Delicate blush tone for a soft, professional look.",
+    "colorName": "Blush",
+    "category": "Office",
+    "nailColor": 4294961154,
+    "imageUrl": "categories_json/office/img5.png",
+    "isPremium": false,
+    "order": 5
+  },
+  {
+    "id": "office_6",
+    "title": "Icy Mint",
+    "description": "Cool mint shade for subtle freshness.",
+    "colorName": "Mint",
+    "category": "Office",
+    "nailColor": 4289444095,
+    "imageUrl": "categories_json/office/img6.png",
+    "isPremium": true,
+    "order": 6
   }
 ]
