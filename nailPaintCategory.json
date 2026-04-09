@@ -19,6 +19,7 @@
     "name_tr": "Öne Çıkan Tasarımlar",
     "name_vi": "Thiết Kế Nổi Bật",
     "name_zh": "精选设计",
+    "name_ur": "نمایاں ڈیزائنز",
     "sub_categories": []
   },
   {
@@ -32,7 +33,7 @@
     "name_id": "Tren & Terbaru",
     "name_it": "Tendenze e Ultimi",
     "name_ja": "トレンド＆最新",
-    "name_ko": "트렌드 & 최신",
+    "name_ko": "ٹرینڈ اور تازہ ترین",
     "name_nl": "Trends & Nieuwste",
     "name_pl": "Trendy i Najnowsze",
     "name_pt": "Tendências e Últimos",
@@ -41,6 +42,7 @@
     "name_tr": "Trendler ve En Yeniler",
     "name_vi": "Xu Hướng & Mới Nhất",
     "name_zh": "流行与最新",
+    "name_ur": "رجحان اور تازہ ترین",
     "sub_categories": [
       {
         "id": "sub_all",
@@ -61,7 +63,8 @@
         "name_th": "ทั้งหมด",
         "name_tr": "Tümü",
         "name_vi": "Tất cả",
-        "name_zh": "全部"
+        "name_zh": "全部",
+        "name_ur": "تمام"
       },
       {
         "id": "sub_trending",
@@ -82,7 +85,8 @@
         "name_th": "เทรนด์",
         "name_tr": "Trendler",
         "name_vi": "Xu hướng",
-        "name_zh": "流行"
+        "name_zh": "流行",
+        "name_ur": "رجحان"
       },
       {
         "id": "sub_newest",
@@ -103,7 +107,8 @@
         "name_th": "ล่าสุด",
         "name_tr": "En Yeniler",
         "name_vi": "Mới nhất",
-        "name_zh": "最新"
+        "name_zh": "最新",
+        "name_ur": "تازہ ترین"
       },
       {
         "id": "sub_minimal",
@@ -124,7 +129,8 @@
         "name_th": "มินิมอล",
         "name_tr": "Minimal",
         "name_vi": "Tối giản",
-        "name_zh": "极简"
+        "name_zh": "极简",
+        "name_ur": "کم سے کم"
       }
     ]
   }
