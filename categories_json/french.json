@@ -184,7 +184,7 @@
     "category": "French",
     "nailColor": 4294406323,
     "imageUrl": "categories_json/french/img4.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 4
   },
   {
