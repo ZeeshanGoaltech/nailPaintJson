@@ -137,7 +137,7 @@
     "category": "Halloween",
     "nailColor": 4288230143,
     "imageUrl": "categories_json/halloween/img3.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 3
   },
   {
