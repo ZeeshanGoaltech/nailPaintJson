@@ -43,7 +43,7 @@
     "category": "Office",
     "nailColor": 4282664004,
     "imageUrl": "categories_json/office/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -184,7 +184,7 @@
     "category": "Office",
     "nailColor": 4288920505,
     "imageUrl": "categories_json/office/img4.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 4
   },
   {
