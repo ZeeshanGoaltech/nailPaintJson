@@ -43,7 +43,7 @@
     "category": "Acrylic",
     "nailColor": 4293051084,
     "imageUrl": "categories_json/acrylic/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -90,7 +90,7 @@
     "category": "Acrylic",
     "nailColor": 4294406323,
     "imageUrl": "categories_json/acrylic/img2.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 2
   },
   {
@@ -231,7 +231,7 @@
     "category": "Acrylic",
     "nailColor": 4293322490,
     "imageUrl": "categories_json/acrylic/img5.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 5
   },
   {
@@ -278,7 +278,7 @@
     "category": "Acrylic",
     "nailColor": 4294951580,
     "imageUrl": "categories_json/acrylic/img6.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 6
   }
 ]
