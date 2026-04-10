@@ -43,7 +43,7 @@
     "category": "Party",
     "nailColor": 4294901978,
     "imageUrl": "categories_json/party/img1.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 1
   },
   {
@@ -137,7 +137,7 @@
     "category": "Party",
     "nailColor": 4287090411,
     "imageUrl": "categories_json/party/img3.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 3
   },
   {
@@ -184,7 +184,7 @@
     "category": "Party",
     "nailColor": 4288423856,
     "imageUrl": "categories_json/party/img4.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 4
   },
   {
