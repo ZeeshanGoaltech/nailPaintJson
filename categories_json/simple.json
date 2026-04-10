@@ -43,7 +43,7 @@
     "category": "Simple",
     "nailColor": 4293051084,
     "imageUrl": "categories_json/simple/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -184,7 +184,7 @@
     "category": "Simple",
     "nailColor": 4289444095,
     "imageUrl": "categories_json/simple/img4.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 4
   },
   {
