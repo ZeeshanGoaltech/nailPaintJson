@@ -44,7 +44,7 @@
     "nailColor": 4293322490,
     "gradientColors": null,
     "imageUrl": "Trending_Latest/sub_all/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -287,7 +287,7 @@
     "nailColor": 4281545523,
     "gradientColors": null,
     "imageUrl": "Trending_Latest/sub_all/img6.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 6
   }
 ]
