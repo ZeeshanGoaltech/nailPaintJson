@@ -47,7 +47,7 @@
       4294967295
     ],
     "imageUrl": "Trending_Latest/sub_newest/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -287,7 +287,7 @@
     "nailColor": 4292927712,
     "gradientColors": null,
     "imageUrl": "Trending_Latest/sub_newest/img6.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 6
   }
 ]
