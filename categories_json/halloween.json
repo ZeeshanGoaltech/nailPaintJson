@@ -43,7 +43,7 @@
     "category": "Halloween",
     "nailColor": 4278190080,
     "imageUrl": "categories_json/halloween/img1.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 1
   },
   {
@@ -90,7 +90,7 @@
     "category": "Halloween",
     "nailColor": 4286578688,
     "imageUrl": "categories_json/halloween/img2.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 2
   },
   {
@@ -231,7 +231,7 @@
     "category": "Halloween",
     "nailColor": 4294941440,
     "imageUrl": "categories_json/halloween/img5.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 5
   },
   {
@@ -278,7 +278,7 @@
     "category": "Halloween",
     "nailColor": 4283484280,
     "imageUrl": "categories_json/halloween/img6.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 6
   }
 ]
