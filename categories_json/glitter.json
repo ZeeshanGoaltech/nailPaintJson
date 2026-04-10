@@ -137,7 +137,7 @@
     "category": "Glitter",
     "nailColor": 4294406323,
     "imageUrl": "categories_json/glitter/img3.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 3
   },
   {
@@ -184,7 +184,7 @@
     "category": "Glitter",
     "nailColor": 4294944000,
     "imageUrl": "categories_json/glitter/img4.png",
-    "isPremium": false,
+    "isPremium": true,
     "order": 4
   },
   {
@@ -278,7 +278,7 @@
     "category": "Glitter",
     "nailColor": 4283484280,
     "imageUrl": "categories_json/glitter/img6.png",
-    "isPremium": true,
+    "isPremium": false,
     "order": 6
   }
 ]
